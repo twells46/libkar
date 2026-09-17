@@ -1,6 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
 project(libkar)
-
-cmake_minimum_required(VERSION 2.8.12)
 
 find_package(Qt6 REQUIRED COMPONENTS Core)
 
