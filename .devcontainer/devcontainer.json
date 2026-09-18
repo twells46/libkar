@@ -1,5 +1,5 @@
 {
-  "name": "libwallaby Dev",
+  "name": "libkar Dev",
   "build": {
     "dockerfile": "./Dockerfile",
     "context": "../"
